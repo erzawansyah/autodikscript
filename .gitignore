@@ -1,0 +1,29 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Streamlit 
+.cache/
+.streamlit/
+# Add exception for .streamlit/config.toml
+!.streamlit/config.toml
+
+
+# All of children folders and files in output folder
+output/**
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Miscellaneous
+.DS_Store
