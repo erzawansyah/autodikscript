@@ -10,9 +10,7 @@ build/
 
 # Streamlit 
 .cache/
-.streamlit/
-# Add exception for .streamlit/config.toml
-!.streamlit/config.toml
+.streamlit/secrets.toml
 
 
 # All of children folders and files in output folder
