@@ -59,6 +59,7 @@ To install and run Autodikscript locally, follow these steps:
 
 ## Project Structure
 
+```
 autodikscript/
 │
 ├── components/ # Pre-built components for automation
@@ -71,6 +72,7 @@ autodikscript/
 ├── requirements.txt # List of dependencies
 ├── sidebar.py # Sidebar configuration
 └── .gitignore # Git ignore file
+```
 
 ## Contributing
 
